@@ -12,8 +12,17 @@
       "ISD": "IT Service Desk"
     },
     "issueTypes": [
-      "Incident",
-      "Problem"
+      "Bug",
+      "Enhancement",
+      "Epic",
+      "Project Action Item",
+      "Project Issue",
+      "Project Risk",
+      "Story",
+      "Task",
+      "Test",
+      "Sub-task",
+      "Technical Task"
     ]
   }
 }
